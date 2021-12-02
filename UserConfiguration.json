@@ -5720,7 +5720,11 @@
                 null,
                 null,
                 null,
-                null,
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 25
+                },
                 null,
                 {
                   "keyActionType": "keystroke",
