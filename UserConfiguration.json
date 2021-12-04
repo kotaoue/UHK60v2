@@ -6,7 +6,7 @@
   "doubleTapSwitchLayerTimeout": 250,
   "iconsAndLayerTextsBrightness": 16,
   "alphanumericSegmentsBrightness": 8,
-  "keyBacklightBrightness": 64,
+  "keyBacklightBrightness": 128,
   "mouseMoveInitialSpeed": 12,
   "mouseMoveAcceleration": 255,
   "mouseMoveDeceleratedSpeed": 21,
@@ -3240,12 +3240,36 @@
             {
               "id": 0,
               "keyActions": [
-                null,
-                null,
-                null,
-                null,
-                null,
-                null,
+                {
+                  "keyActionType": "keystroke",
+                  "type": "media",
+                  "scancode": 182
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "media",
+                  "scancode": 205
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "media",
+                  "scancode": 181
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "media",
+                  "scancode": 226
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "media",
+                  "scancode": 234
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "media",
+                  "scancode": 233
+                },
                 null,
                 {
                   "keyActionType": "mouse",
