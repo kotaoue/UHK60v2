@@ -2443,7 +2443,7 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 128
+                  "modifierMask": 64
                 },
                 {
                   "keyActionType": "keystroke",
@@ -2814,7 +2814,7 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 128
+                  "modifierMask": 64
                 },
                 {
                   "keyActionType": "keystroke",
@@ -3104,7 +3104,7 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 128
+                  "modifierMask": 64
                 },
                 {
                   "keyActionType": "keystroke",
@@ -3348,7 +3348,7 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 128
+                  "modifierMask": 64
                 },
                 {
                   "keyActionType": "keystroke",
