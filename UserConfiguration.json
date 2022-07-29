@@ -2443,7 +2443,7 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 64
+                  "modifierMask": 128
                 },
                 {
                   "keyActionType": "keystroke",
